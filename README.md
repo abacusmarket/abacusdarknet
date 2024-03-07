@@ -4,9 +4,8 @@ Abacus Market is a reliable trading platform that offers goods and services from
 
 Abacus Market went live on September 28 2021. Longevity Abacus darknet(by darknet standards) serves to demonstrate that we are the real deal. No hacks, no scams, no BS. Abacus onion aim to provide a great experience for buyers and vendors alike. We have vendors and customers from all over the world, and Abacus shop undisputed largest darknet market for users in Australia, a feat we are very proud of. Goal Abacus market is to become number 1 everywhere else too, and become the first darknet market to trade for at least 10 years, beating the current 6 year record held by Dream Market. Team Abacus darknet hope you will join us on our journey. 
 
-## Abacus Market clearnet URL:
+## Abacus Market official onion URL:
 
-[- GET MARKET-] (http://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion/)http://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion/
 ### http://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion/
 
 ### The main advantages of Abacus market link darknet
