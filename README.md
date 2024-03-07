@@ -6,7 +6,7 @@ Abacus Market went live on September 28 2021. Longevity Abacus darknet(by darkne
 
 ## Abacus Market clearnet URL:
 
-[Abacus Market](http://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion/)http://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion/
+[- GET MARKET-] (http://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion/)http://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion/
 ### http://abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion/
 
 ### The main advantages of Abacus market link darknet
