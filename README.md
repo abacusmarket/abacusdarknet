@@ -1,5 +1,5 @@
 <head>
-  <link rel="shortcut icon" href="{{ site.baseurl }}https://raw.githubusercontent.com/abacusmarket/abacusdarknet/main/file/abacus.ico">
+  <link rel="shortcut icon" href="https://raw.githubusercontent.com/abacusmarket/abacusdarknet/main/file/abacus.ico">
 </head>
 
 <img src="https://raw.githubusercontent.com/abacusmarket/abacusdarknet/main/file/abacus.png" width="300">
