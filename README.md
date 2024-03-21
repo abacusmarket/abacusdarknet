@@ -1,8 +1,8 @@
 <head>
-  <link rel="shortcut icon" href="{{ site.baseurl }}https://github.com/abacusmarket/abacusdarknet/blob/main/file/abacus.ico">
+  <link rel="shortcut icon" href="{{ site.baseurl }}https://raw.githubusercontent.com/abacusmarket/abacusdarknet/main/file/abacus.ico">
 </head>
 
-<img src="https://github.com/abacusmarket/abacusdarknet/blob/main/file/abacus.png" width="300">
+<img src="https://raw.githubusercontent.com/abacusmarket/abacusdarknet/main/file/abacus.png" width="300">
 
 # Welcome to Abacus Market
 Abacus Market is a reliable trading platform that offers goods and services from different parts of the world, making them accessible to everyone who is interested in buying them.
@@ -20,7 +20,7 @@ http://abacus7ygil56glanhj3oai2gap6pomy5tevunbvv3lbo3jg7zua7yid.onion
 
 > A curated list of verified `.onion` links of various Onion Services on darknet
 
-<img src="https://github.com/abacusmarket/abacusdarknet/blob/main/file/abacushome.jpg" width="1200">
+<img src="https://raw.githubusercontent.com/abacusmarket/abacusdarknet/main/file/abacushome.jpg" width="1200">
 
 
 Abacus Market went live on September 28 2021. Longevity Abacus darknet(by darknet standards) serves to demonstrate that we are the real deal. No hacks, no scams, no BS. Abacus onion aim to provide a great experience for buyers and vendors alike. We have vendors and customers from all over the world, and Abacus shop undisputed largest darknet market for users in Australia, a feat we are very proud of. Goal Abacus market is to become number 1 everywhere else too, and become the first darknet market to trade for at least 10 years, beating the current 6 year record held by Dream Market. Team Abacus darknet hope you will join us on our journey. 
